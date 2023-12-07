@@ -37,6 +37,8 @@ As a player, I want to have a timer to see how long it takes me to complete the 
 
 ## Wireframes / Screenshots
 ![Alt text](IMG_6336.jpeg)
+![image](https://github.com/omarvercetti/concentration/assets/150702846/2a1b7ecf-17da-4528-9cd3-fa3616e54892)
+
 
 ## Psuedocode
 
@@ -49,3 +51,8 @@ Replay Option: Start a new game anytime by clicking the replay button.
 
 Customizable Grid Size: Adjust the difficulty with different grid sizes.
 
+#version 2
+more levels
+it will have a easy medium and hard mode
+more themes will be allowed
+new buzzer noises and timers will be longer 
